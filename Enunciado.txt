@@ -1,0 +1,2 @@
+Implemente, na sua linguagem favorita, o algoritmo de pairwise clustering para os tweets, utilizando algoritmos genéticos para a obtenção da matriz de membership M correspondente à dissimilaridade média intra-cluster mínima. Utilize como medidas de dissimilaridade  as distâncias de levenshtein e jaccard(sugestões) combinando-as a seu gosto de modo a obter o melhor resultado. Analise seus clusters resultantes e discuta-os.
+Prazo: 10/07/18
